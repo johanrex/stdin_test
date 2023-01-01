@@ -9,10 +9,6 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "args": [
-                "<",
-                "tests/input_2.txt"
-            ],
             "justMyCode": true
         }
     ]
